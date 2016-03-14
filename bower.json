@@ -1,0 +1,22 @@
+{
+  "name": "skeleton-checkboxes",
+  "description": "Checkboxes for Skeleton CSS",
+  "main": "skeleton-checkboxes.css",
+  "authors": [
+    "Patrik Johnson <patrik@zebros.fi"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "skeleton",
+    "skeleton-framework",
+    "skeleton-bones",
+    "skeleton-checkboxes"
+  ],
+  "homepage": "https://github.com/orbitbot/skeleton-checkboxes",
+  "ignore": [
+    ".gitignore",
+    "*.md",
+    "*.json",
+    "node_modules",
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "skeleton-checkboxes",
+  "version": "1.0.0",
+  "description": "Checkboxes for Skeleton CSS",
+  "files": [
+    "skeleton-checkboxes.css",
+    "skeleton-checkboxes-small.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbitbot/skeleton-checkboxes.git"
+  },
+  "keywords": [
+    "skeleton",
+    "skeleton-framework",
+    "skeleton-bones",
+    "skeleton-checkboxes"
+  ],
+  "author": "Patrik Johnson <patrik@zebros.fi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbitbot/skeleton-checkboxes/issues"
+  },
+  "homepage": "https://github.com/orbitbot/skeleton-checkboxes#readme"
+}
