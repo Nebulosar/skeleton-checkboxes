@@ -5,6 +5,6 @@ input[type="checkbox"].small + label {
 
 input[type=checkbox]:checked.small + label:after {
   top: 0.5ex;
-  left: 0.4ex;
+  left: 0.5ex;
   height: 1ex;
 }
